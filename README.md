@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+ <h3> kayos <i>(aka yung innanet)</i> </h3>
+ breaking computers with golang and running spooky infrastructure <p />
 
-<!--
-**dauntIess/dauntIess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="spotify now playing" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=403pqvs79z4z4xqp5iucpiy7u&unique=1&width=400">
+
+<div align="center">
+
+  |  |  |  |  |
+  |:---------:|------:|:---------:|------:|
+  | Commits | **3781** | Issues opened | **31** |
+  | PRs opened | **86** | Stars received | **286** |
+  | Repos owned | **20** | Contributed to | **35** |
+
+</div>
+
+---
+
+
+---
